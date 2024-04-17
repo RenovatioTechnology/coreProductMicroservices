@@ -1,9 +1,9 @@
-﻿using coreMicroserviceProject.Repository;
-using coreProductMicroservices.Models;
+﻿using coreProductMicroservices.Models;
+using coreProductMicroservices.Repository;
 using Microsoft.AspNetCore.Mvc;
 using System.Transactions;
 
-namespace coreMicroserviceProject.Controllers
+namespace coreProductMicroservices.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

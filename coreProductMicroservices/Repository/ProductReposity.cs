@@ -1,7 +1,7 @@
 ﻿using coreProductMicroservices.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace coreMicroserviceProject.Repository
+namespace coreProductMicroservices.Repository
 {
     public class ProductReposity : IProductRepository
     {

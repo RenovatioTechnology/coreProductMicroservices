@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using coreProductMicroservices.Models;
-using coreMicroserviceProject.Repository;
+using coreProductMicroservices.Repository;
 
 
 var builder = WebApplication.CreateBuilder(args);
